@@ -9,6 +9,9 @@ h1 {
     color: #1255e4;
 }
 
+h2 {
+    color:darkblue;
+}
 form {
     max-width: 400px;
     margin: 0 auto;
@@ -41,3 +44,5 @@ button {
 button:hover {
     background-color: #f8e42c;
 }
+
+
